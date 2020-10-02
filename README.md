@@ -1,6 +1,6 @@
 # js-regex-validation
-> This tool helped me a lot
-> <a href="https://regexr.com/"> click me for the tool
+> This tool helped me a lot<br>
+> <a href="https://regexr.com/"> click me for the tool</a>
 Input Value Validation using regex in JS
 
 ## What is Regex
