@@ -1,7 +1,9 @@
 # js-regex-validation
 > This tool helped me a lot<br>
-> <a href="https://regexr.com/"> click me for the tool</a>
-Input Value Validation using regex in JS
+> <a href="https://regexr.com/"> click me for the tool</a><br>
+
+
+# Input Value Validation using regex in JS
 
 ## What is Regex
 A regular expression is a sequence of characters that define a search pattern. Usually such patterns are used by string-searching
